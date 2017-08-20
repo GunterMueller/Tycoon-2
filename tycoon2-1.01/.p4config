@@ -1,0 +1,6 @@
+#P4PORT=localhost:1777
+P4PORT=localhost:8392
+P4CLIENT=axe-kuchen2
+P4USER=ax.wienberg
+P4PASSWD=sdilrg8ggj
+
